@@ -1,0 +1,12 @@
+{
+  "Seedance": {
+    "source_json": "C:\\Users\\Mineth\\Documents\\GitHub\\Advanced Topics in AI-Model Comparison Assignment\\outputs\\video_editing\\seedance_20261105_133400.json",
+    "api_elapsed_seconds": 250.64,
+    "actual_cost_usd": 2.13
+  },
+  "Kling": {
+    "source_json": "C:\\Users\\Mineth\\Documents\\GitHub\\Advanced Topics in AI-Model Comparison Assignment\\outputs\\video_editing\\kling_20261105_133117.json",
+    "api_elapsed_seconds": 82.25,
+    "actual_cost_usd": 0.64
+  }
+}

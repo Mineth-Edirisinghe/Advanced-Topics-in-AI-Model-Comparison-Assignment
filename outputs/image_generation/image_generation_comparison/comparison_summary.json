@@ -1,0 +1,22 @@
+{
+  "sana": {
+    "model": "Efficient-Large-Model/Sana_Sprint_1.6B_1024px_diffusers",
+    "source_json": "C:\\Users\\Mineth\\Documents\\GitHub\\Advanced Topics in AI-Model Comparison Assignment\\outputs\\image_generation\\sana_20261105_145143.json",
+    "output_file": "C:\\Users\\Mineth\\Documents\\GitHub\\Advanced Topics in AI-Model Comparison Assignment\\outputs\\image_generation\\sana_20261105_145143.png",
+    "generation_seconds": 11.981,
+    "loading_seconds": 8.395,
+    "peak_gpu_allocated_gib": 4.988,
+    "num_inference_steps": 2,
+    "generator_device": "cuda"
+  },
+  "lumina": {
+    "model": "Alpha-VLLM/Lumina-Image-2.0",
+    "source_json": "C:\\Users\\Mineth\\Documents\\GitHub\\Advanced Topics in AI-Model Comparison Assignment\\outputs\\image_generation\\lumina_20261105_145358.json",
+    "output_file": "C:\\Users\\Mineth\\Documents\\GitHub\\Advanced Topics in AI-Model Comparison Assignment\\outputs\\image_generation\\lumina_20261105_145358.png",
+    "generation_seconds": 63.257,
+    "loading_seconds": 21.743,
+    "peak_gpu_allocated_gib": 5.387,
+    "num_inference_steps": 50,
+    "generator_device": "cpu"
+  }
+}

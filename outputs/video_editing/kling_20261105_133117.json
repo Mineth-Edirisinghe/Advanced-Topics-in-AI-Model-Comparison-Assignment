@@ -1,0 +1,24 @@
+{
+  "model": "kling-video/v4.0/video-edit",
+  "source_video": "C:\\Users\\Mineth\\Documents\\GitHub\\Advanced Topics in AI-Model Comparison Assignment\\outputs\\video_editing\\pool_shot.mp4",
+  "arguments": {
+    "prompt": "Change this daytime swimming pool scene to a photorealistic nighttime scene. Make the sky datk navy blue and remove daylight. Illuminate the pool with soft blue underwater lights, creating natural reflections and gentle shimmering ripples. Add warm, subtle lighting along the existing poolside paving and warm light from the house windows. Keep the pool and surrounding area clearly visible with realistic nighttime exposure. Preserve the original pool shape, paving materials, house, fencing, landscaping and camera movement. Keep lighting and reflections consistent throughout the video. No people, text, or scene cuts.   ",
+    "video_url": "https://d3snorpfx4xhv8.cloudfront.net/8674200e-9e59-46f9-953c-289254a9954c/66953ed6-4c48-4948-8e99-e3e703ad1579.mp4",
+    "duration": 4,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  },
+  "output_file": "C:\\Users\\Mineth\\Documents\\GitHub\\Advanced Topics in AI-Model Comparison Assignment\\outputs\\video_editing\\kling_20261105_133117.mp4",
+  "request_id": "01a1a98c-0052-7ae8-a470-8562adb7ab06",
+  "api_elapsed_seconds": 82.25,
+  "result": {
+    "status": "completed",
+    "request_id": "01a1a98c-0052-7ae8-a470-8562adb7ab06",
+    "status_url": "https://api.higgsfield.ai/requests/01a1a98c-0052-7ae8-a470-8562adb7ab06/status",
+    "cancel_url": "https://api.higgsfield.ai/requests/01a1a98c-0052-7ae8-a470-8562adb7ab06/cancel",
+    "expires_at": "2026-11-12T02:32:47.152860+00:00",
+    "video": {
+      "url": "https://d3u0tzju9qaucj.cloudfront.net/8674200e-9e59-46f9-953c-289254a9954c/01a1a98c-0052-7ae8-a470-8562adb7ab06/460f04c3-7335-408d-813e-d21705f6c65b.mp4"
+    }
+  }
+}

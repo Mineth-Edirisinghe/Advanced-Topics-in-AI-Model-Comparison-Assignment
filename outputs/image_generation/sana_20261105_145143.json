@@ -1,0 +1,17 @@
+{
+  "name": "sana",
+  "model": "Efficient-Large-Model/Sana_Sprint_1.6B_1024px_diffusers",
+  "prompt": "A photorealistic architectural concept of a modern Australian backyard, viewed diagonally from a slightly elevated position, showing the complete pool and surrounding garden. A rectangular swimming pool with clear turquoise water occupies the centre. Three wide submerged entry steps are visible at the near end, with a long underwater bench along the right interior wall. Pale sandstone coping surrounds the pool. Exactly two timber sun loungers with white cushions stand side by side on a timber deck to the left of the pool. A small round table sits between them. A white patio umbrella shades the loungers. A frameless glass fence runs behind the pool, with native grasses and flowering shrubs beyond it. A single-storey white house stands in the background. Warm late-afternoon sunlight comes from the left, casting consistent shadows to the right. Natural water reflections, realistic materials and straight architectural lines. No people, text, logos or watermarks.",
+  "width": 1024,
+  "height": 1024,
+  "seed": 42,
+  "generator_device": "cuda",
+  "num_inference_steps": 2,
+  "memory_mode": "model_cpu_offload",
+  "loading_seconds": 8.395,
+  "generation_seconds": 11.981,
+  "peak_gpu_allocated_gib": 4.988,
+  "gpu": "NVIDIA GeForce RTX 5060 Ti",
+  "warmup_performed": false,
+  "output_file": "C:\\Users\\Mineth\\Documents\\GitHub\\Advanced Topics in AI-Model Comparison Assignment\\outputs\\image_generation\\sana_20261105_145143.png"
+}

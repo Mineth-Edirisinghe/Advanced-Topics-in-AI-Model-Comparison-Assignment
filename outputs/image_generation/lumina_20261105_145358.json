@@ -1,0 +1,20 @@
+{
+  "name": "lumina",
+  "model": "Alpha-VLLM/Lumina-Image-2.0",
+  "prompt": "A photorealistic architectural concept of a modern Australian backyard, viewed diagonally from a slightly elevated position, showing the complete pool and surrounding garden. A rectangular swimming pool with clear turquoise water occupies the centre. Three wide submerged entry steps are visible at the near end, with a long underwater bench along the right interior wall. Pale sandstone coping surrounds the pool. Exactly two timber sun loungers with white cushions stand side by side on a timber deck to the left of the pool. A small round table sits between them. A white patio umbrella shades the loungers. A frameless glass fence runs behind the pool, with native grasses and flowering shrubs beyond it. A single-storey white house stands in the background. Warm late-afternoon sunlight comes from the left, casting consistent shadows to the right. Natural water reflections, realistic materials and straight architectural lines. No people, text, logos or watermarks.",
+  "width": 1024,
+  "height": 1024,
+  "seed": 42,
+  "generator_device": "cpu",
+  "num_inference_steps": 50,
+  "guidance_scale": 4.0,
+  "cfg_trunc_ratio": 0.25,
+  "cfg_normalization": true,
+  "memory_mode": "model_cpu_offload",
+  "loading_seconds": 21.743,
+  "generation_seconds": 63.257,
+  "peak_gpu_allocated_gib": 5.387,
+  "gpu": "NVIDIA GeForce RTX 5060 Ti",
+  "warmup_performed": false,
+  "output_file": "C:\\Users\\Mineth\\Documents\\GitHub\\Advanced Topics in AI-Model Comparison Assignment\\outputs\\image_generation\\lumina_20261105_145358.png"
+}
